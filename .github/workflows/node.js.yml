@@ -19,3 +19,7 @@ jobs:
       run: date
     - name: 'list-dir'
       run: ls
+    - name: Hello-World2
+      run: echo "Hello World2"
+    - name: "Nuevamente yo"
+      run: echo "Hola nuevamente"
